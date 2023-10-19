@@ -6,7 +6,7 @@
 
 | Windows                    | Linux/MacOs                 |
 | -------------------------- | --------------------------- |
-| `pip install py-randomify` | `pip3 install py-randomify` |
+| `pip install pyrandomify` | `pip3 install pyrandomify` |
 
 
 
