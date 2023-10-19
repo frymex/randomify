@@ -13,7 +13,7 @@
 #### Usage
 
 ```python
-from randomify import Text, Digits, Generate
+from pyrandomify import Text, Digits, Generate
 
 # generating text a-Z
 Text().generate(lenght=15)
